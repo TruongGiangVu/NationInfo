@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nation Info</string>
+    <string name="areas">Areas</string>
+    <string name="countries">Countries</string>
+    <string name="country_name">Country Name</string>
+    <string name="populations">Populations</string>
+    <string name="acreage">Acreage</string>
+    <string name="info">Country Info</string>
+    <string name="flag">Name</string>
+</resources>
